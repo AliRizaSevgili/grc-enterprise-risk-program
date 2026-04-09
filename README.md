@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project presents the design of an enterprise Governance, Risk, and Compliance (GRC) program for a live e-commerce platform inspired by [Heart Pottery Studios](https://www.heartpotterystudios.com/).
+This project presents the design of an enterprise Governance, Risk, and Compliance (GRC) program for a live e-commerce platform.
 
 The objective was to establish a structured and practical approach to identifying, assessing, prioritizing, and governing risks across multiple domains, including cybersecurity, operational, compliance, third-party, data, and governance.
 
