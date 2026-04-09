@@ -34,7 +34,7 @@ This dashboard provides a high-level overview of risk distribution and prioritiz
 
 - [Download Full Dashboard](06_Risk_Dashboard/Risk_Dashboard.xlsx)
 
-![Risk Dashboard Preview](06_Risk_Dashboard/Risk_Dashboard_Preview.png)
+ ![Risk Dashboard Preview](06_Risk_Dashboard/Risk_Dashboard_Preview.png)
 
 ---
 
