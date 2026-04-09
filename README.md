@@ -29,12 +29,11 @@ The project covers:
 ---
 
 ##  Risk Dashboard
-
 This dashboard provides a high-level overview of risk distribution and prioritization across the system.
 
-- [Download Full Dashboard](06_Risk_Dashboard/Risk_Dashboard.xlsx)
+- [Download Full Dashboard](./06_Risk_Dashboard/Risk_Dashboard.xlsx)
 
- ![Risk Dashboard Preview](./06_Risk_Dashboard/Risk_Dashboard_Preview.png)
+![Risk Dashboard Preview](./06_Risk_Dashboard/Risk%20Summary%20Dashboard%20Screenshot.png)
 
 ---
 
