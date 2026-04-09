@@ -1,7 +1,7 @@
 # Enterprise GRC Program Design for a Live E-commerce Platform
 
 ## Overview
-This project presents the design of an enterprise Governance, Risk, and Compliance (GRC) program for a live e-commerce platform on heartpotterystudios.com. The objective was to establish a structured approach to identifying, assessing, prioritizing, and governing risks across cybersecurity, operational, compliance, third-party, data, and governance domains.
+This project presents the design of an enterprise Governance, Risk, and Compliance (GRC) program for a live e-commerce platform on [Heart Pottery Studios](https://www.heartpotterystudios.com). The objective was to establish a structured approach to identifying, assessing, prioritizing, and governing risks across cybersecurity, operational, compliance, third-party, data, and governance domains.
 
 ## Scope
 The project covers:
