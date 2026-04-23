@@ -1,6 +1,7 @@
 # Enterprise GRC Program Design for a Live E-commerce Platform
 
 **End-to-end risk, control, and governance design aligned with SOC 2, NIST CSF, and ISO 27001**
+This project extends ITGC control testing and SOC 2 readiness assessment into enterprise risk management and governance design, simulating a real-world GRC environment.
 
 ---
 
@@ -11,6 +12,7 @@ This project presents the design of an enterprise Governance, Risk, and Complian
 The objective was to establish a structured and practical approach to identifying, assessing, prioritizing, and governing risks across multiple domains, including cybersecurity, operational, compliance, third-party, data, and governance.
 
 Unlike traditional security-focused projects, this work emphasizes **risk-based thinking and governance design**, reflecting how risks are managed in real-world organizations.
+The program integrates audit-level control evaluation (including design and operating effectiveness) with enterprise risk management to ensure risks are assessed based on actual control performance.
 
 ---
 
@@ -24,7 +26,10 @@ The project covers:
 - Control mapping to SOC 2, NIST CSF, and ISO 27001  
 - Governance model design  
 - Risk dashboard creation  
-- Executive-level risk reporting  
+- Executive-level risk reporting
+- Risk treatment planning (mitigation strategies, ownership, timelines)
+- Vendor (third-party) risk management
+-Policy framework development
 
 ---
 
@@ -48,8 +53,9 @@ The program was developed through a structured GRC workflow:
 5. Control Framework Mapping  
 6. Governance Model Design  
 7. Risk Dashboard and Reporting  
-
-This methodology ensures a consistent and repeatable approach aligned with industry practices.
+8. Control assessment (control effectiveness and gap analysis)
+9. Risk treatment planning
+This approach integrates risk assessment with control effectiveness evaluation, aligned with audit practices used in ITGC and SOC 2 testing.
 
 ---
 
@@ -57,7 +63,10 @@ This methodology ensures a consistent and repeatable approach aligned with indus
 
 - Risk Universe  
 - Risk Scoring Model  
-- Enterprise Risk Register  
+- Enterprise Risk Register
+- Risk Treatment Plan
+-Vendor Risk Assessment
+-Policy Framework (Information Security, Access Control, Data Retention)  
 - Control Framework Mapping  
 - Governance Model  
 - Risk Dashboard  
@@ -81,7 +90,7 @@ This project aligns with major industry frameworks:
 - NIST Cybersecurity Framework (CSF)  
 - ISO/IEC 27001  
 
-The mapping ensures audit readiness and structured control implementation.
+This alignment ensures that risks, controls, and governance structures are consistent with audit expectations and industry best practices.
 
 ---
 
@@ -90,7 +99,17 @@ The mapping ensures audit readiness and structured control implementation.
 - Risk-based thinking over control-based thinking  
 - Alignment with real-world audit and compliance expectations  
 - Practical implementation of governance and accountability models  
-- Bridging technical systems with business risk perspectives  
+- Bridging technical systems with business risk perspectives
+- Integration of control testing results into risk evaluation
+-Focus on control effectiveness and residual risk
+
+---
+
+## Audit Positioning
+
+This project simulates a real-world enterprise GRC program by integrating ITGC control testing, SOC 2 readiness assessment, and risk governance.
+
+It demonstrates practical experience in risk analysis, control evaluation, audit documentation, and governance design.
 
 ---
 
